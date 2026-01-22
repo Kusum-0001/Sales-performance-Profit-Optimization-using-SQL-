@@ -16,33 +16,33 @@ This project simulates a real-world business scenario where management wants to 
 <p>Provide actionable recommendations for profit optimization.</p>
 
 
-<h2> 🗃️ Dataset Information</h2>
+<h2>🗃️ Dataset Information</h2>
 <p>Dataset Name: SampleSuperstore.csv</p>
-<p> Total Records: ~9900 rows</p>
-<p> Data Types: Retail sales transactions</p>
+<p>Total Records: ~9900 rows</p>
+<p>Data Types: Retail sales transactions</p>
 
 
-<h2> 🛠️ Tools & Technologies Used</h2>
-<p> SQL(MySQL): Data loading, Validation, analysis</p>
-<p> Excel: Initial data inspection</p>
-<p> GitHub: Project documentation & version control</p>
+<h2>🛠️ Tools & Technologies Used</h2>
+<p>SQL(MySQL): Data loading, Validation, analysis</p>
+<p>Excel: Initial data inspection</p>
+<p>GitHub: Project documentation & version control</p>
 
 
 <h2>🧠 Key Insights </h2>
-<p>High sales do not always result in high profit
-  Furniture category contributes significantly to losses
-  Discounts above 30% lead to negative profit margins
-  Certain regions consistently underperformance in profit </p>
+<p>High sales do not always result in high profit</p>
+<p>Furniture category contributes significantly to losses</p>
+<p>Discounts above 30% lead to negative profit margins</p>
+<p>Certain regions consistently underperformance in profit </p>
 
 
 <h2>💡 Business Recommendations</h2>
-<p> Cap discounts at 20-30% to protect margins</p>
-<p> Reprice or discountinue loss-making sub-categories</p>
-<p> Focus marketing on high-margin categories</p>
-<p> Optimize regional pricing strategies</p>
+<p>Cap discounts at 20-30% to protect margins</p>
+<p>Reprice or discountinue loss-making sub-categories</p>
+<p>Focus marketing on high-margin categories</p>
+<p>Optimize regional pricing strategies</p>
 
   
-<h1> 🚀 Conclusion </h1>
+<h1>🚀 Conclusion </h1>
 <p>~This project demonstraytes my ability to:</p>
 <p>~Work with real business datasets</p>
 <p>~Perform SQL-based analysis</p>
