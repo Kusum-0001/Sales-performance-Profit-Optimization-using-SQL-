@@ -22,7 +22,7 @@ This project simulates a real-world business scenario where management wants to 
 <p> Data Types: Retail sales transactions</p>
 
 
-<h2> 🛠️ Tools & Technologies Used
+<h2> 🛠️ Tools & Technologies Used</h2>
 <p> SQL(MySQL): Data loading, Validation, analysis</p>
 <p> Excel: Initial data inspection</p>
 <p> GitHub: Project documentation & version control</p>
@@ -36,14 +36,14 @@ This project simulates a real-world business scenario where management wants to 
 
 
 <h2>💡 Business Recommendations</h2>
-<p> Cap discounts at 20-30% to protect margins
-  Reprice or discountinue loss-making sub-categories
-  Focus marketing on high-margin categories
-  Optimize regional pricing strategies</p>
+<p> Cap discounts at 20-30% to protect margins</p>
+<p> Reprice or discountinue loss-making sub-categories</p>
+<p> Focus marketing on high-margin categories</p>
+<p> Optimize regional pricing strategies</p>
 
   
 <h1> 🚀 Conclusion </h1>
-<p>This project demonstraytes my ability to:</p>
-<p>.Work with real business datasets</p>
-<p>.Perform SQL-based analysis</p>
-<p>.Translate data into actionable recommendations</p>
+<p>~This project demonstraytes my ability to:</p>
+<p>~Work with real business datasets</p>
+<p>~Perform SQL-based analysis</p>
+<p>~Translate data into actionable recommendations</p>
