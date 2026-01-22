@@ -28,8 +28,22 @@ This project simulates a real-world business scenario where management wants to 
 <p> GitHub: Project documentation & version control</p>
 
 
+<h2>🧠 Key Insights </h2>
+<p>High sales do not always result in high profit
+  Furniture category contributes significantly to losses
+  Discounts above 30% lead to negative profit margins
+  Certain regions consistently underperformance in profit </p>
+
+
+<h2>💡 Business Recommendations</h2>
+<p> Cap discounts at 20-30% to protect margins
+  Reprice or discountinue loss-making sub-categories
+  Focus marketing on high-margin categories
+  Optimize regional pricing strategies</p>
+
+  
 <h1> 🚀 Conclusion </h1>
-<h2>This project demonstraytes my ability to:</h2>
-<h3>.Work with real business datasets</h3>
-<h3>.Perform SQL-based analysis</h3>
-<h3>.Translate data into actionable recommendations</h3>
+<p>This project demonstraytes my ability to:</p>
+<p>.Work with real business datasets</p>
+<p>.Perform SQL-based analysis</p>
+<p>.Translate data into actionable recommendations</p>
