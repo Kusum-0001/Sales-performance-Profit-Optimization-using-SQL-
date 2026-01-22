@@ -10,16 +10,16 @@ This project simulates a real-world business scenario where management wants to 
 
 
 <h2>🎯 Business Objectives</h2>
-.<h3>Analyze overall sales and profit performance</h3>
-.<h3>Identify loss-making regions, categories and sub-categories.</h3>
-.<h3>Evaluate the impact of discount on profitability.</h3>
-.<h3>Provide actionable recommendations for profit optimization.</h3>
+<h3>Analyze overall sales and profit performance</h3>
+<h3>Identify loss-making regions, categories and sub-categories.</h3>
+<h3>Evaluate the impact of discount on profitability.</h3>
+<h3>Provide actionable recommendations for profit optimization.</h3>
 
 
 <h2> 🗃️ Dataset Information</h2>
-.<h3>Dataset Name: SampleSuperstore.csv</h3>
-.<h3> Total Records: ~9900 rows</h3>
-.<h3> Data Types: Retail sales transactions</h3>
+<l1>Dataset Name: SampleSuperstore.csv</l1>
+<l2> Total Records: ~9900 rows</l2>
+<l3> Data Types: Retail sales transactions</l3>
 
 
 <h2> 🛠️ Tools & Technologies Used
